@@ -1,0 +1,7 @@
+*.npy filter=lfs diff=lfs merge=lfs -text
+C:/Users/DELL/Desktop/Recognition_of_CropDiseases_and_Insect_Pests_Based_on_Deep_Learning/model.npy filter=lfs diff=lfs merge=lfs -text
+C:/Users/DELL/Desktop/Recognition_of_CropDiseases_and_Insect_Pests_Based_on_Deep_Learning/model*.npy filter=lfs diff=lfs merge=lfs -text
+model/myimg_data.txt filter=lfs diff=lfs merge=lfs -text
+model/myimg_label.txt filter=lfs diff=lfs merge=lfs -text
+model/myimg_data.txt.npy filter=lfs diff=lfs merge=lfs -text
+model/myimg_label.txt.npy filter=lfs diff=lfs merge=lfs -text
