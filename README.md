@@ -1,0 +1,1 @@
+# Recognition_of_crop_diseases_and_insectpests_based_on_deeplearning
