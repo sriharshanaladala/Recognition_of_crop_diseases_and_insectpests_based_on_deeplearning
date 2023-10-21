@@ -13,3 +13,6 @@
 5. open the file at which it is extracted and copy the path to cmd or idle
 6. now install the required modules which are missing to execute
 7. run the code from the run.bat file (or) run from the terminal by typing the .py file name
+
+
+# **IMAGES OF EXECUTION**
